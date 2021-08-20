@@ -24,4 +24,4 @@ rm -rf Yosef
 
 cd Yosef;rm -rf Info.lua;./YS 
 ᑅ══•═══Ys══•═══ᑀ  
-✟ 𝙏𝙒𝙎.@Yousef_Labban
+✟ 𝙏𝙒𝙎.@ARMOF
